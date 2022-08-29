@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\bin\Debug\net6.0\ex001hw.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\bin\Debug\net6.0\ex001hw.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\bin\Debug\net6.0\ex001hw.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\bin\Debug\net6.0\ex001hw.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\bin\Debug\net6.0\ex001hw.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\refint\ex001hw.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ex001hw.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\repo\examples\ex001hw\obj\Debug\net6.0\ref\ex001hw.dll
